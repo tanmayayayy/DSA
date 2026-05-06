@@ -17,6 +17,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayayayy/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0771-jewels-and-stones](https://github.com/tanmayayayy/DSA/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayayayy/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/tanmayayayy/DSA/tree/master/0771-jewels-and-stones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
 |  |
