@@ -7,6 +7,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanmayayayy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/tanmayayayy/DSA/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
