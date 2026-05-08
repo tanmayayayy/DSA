@@ -11,6 +11,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -53,6 +54,7 @@
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -87,4 +89,12 @@
 |  |
 | ------- |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
+## Greedy
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 <!---LeetCode Topics End-->
