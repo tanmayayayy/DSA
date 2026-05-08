@@ -11,6 +11,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
+| [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/tanmayayayy/DSA/tree/master/3866-first-unique-even-element) |
@@ -27,6 +28,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/tanmayayayy/DSA/tree/master/3866-first-unique-even-element) |
@@ -51,6 +53,7 @@
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
@@ -80,4 +83,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->
