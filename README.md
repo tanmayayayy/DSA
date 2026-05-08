@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayayayy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -46,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -76,5 +78,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
