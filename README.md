@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
+| [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
+| [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
 |  |
