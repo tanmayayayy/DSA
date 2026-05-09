@@ -10,6 +10,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -102,6 +103,7 @@
 | [0409-longest-palindrome](https://github.com/tanmayayayy/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
 |  |
