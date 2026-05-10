@@ -124,4 +124,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/tanmayayayy/DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
