@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanmayayayy/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayayayy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
@@ -91,6 +92,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanmayayayy/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -101,6 +103,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tanmayayayy/DSA/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/tanmayayayy/DSA/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
