@@ -12,6 +12,7 @@
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/tanmayayayy/DSA/tree/master/0860-lemonade-change) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
@@ -108,6 +109,7 @@
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/tanmayayayy/DSA/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 ## Heap (Priority Queue)
