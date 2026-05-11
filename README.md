@@ -134,4 +134,5 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/tanmayayayy/DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/tanmayayayy/DSA/tree/master/0183-customers-who-never-order) |
+| [0607-sales-person](https://github.com/tanmayayayy/DSA/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
