@@ -23,16 +23,7 @@ public:
                 k=0;
             }
 
-            // else if(nums[i]>0 && i>0){
-
-            //     nums[i-1]=nums[i-1]*pow(-1,k);
-            //     k=0;
-
-
-
-
-            // }
-
+            
             
 
 
