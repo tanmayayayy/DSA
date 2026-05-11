@@ -18,6 +18,7 @@
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/tanmayayayy/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1470-shuffle-the-array](https://github.com/tanmayayayy/DSA/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/tanmayayayy/DSA/tree/master/1929-concatenation-of-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
