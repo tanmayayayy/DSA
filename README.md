@@ -10,6 +10,7 @@
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/tanmayayayy/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/tanmayayayy/DSA/tree/master/0860-lemonade-change) |
