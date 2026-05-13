@@ -40,6 +40,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
+| [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tanmayayayy/DSA/tree/master/0219-contains-duplicate-ii) |
+| [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 ## String
 |  |
 | ------- |
@@ -85,6 +88,7 @@
 | [0409-longest-palindrome](https://github.com/tanmayayayy/DSA/tree/master/0409-longest-palindrome) |
 | [0771-jewels-and-stones](https://github.com/tanmayayayy/DSA/tree/master/0771-jewels-and-stones) |
 | [0942-di-string-match](https://github.com/tanmayayayy/DSA/tree/master/0942-di-string-match) |
+| [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
 |  |
@@ -142,4 +146,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/tanmayayayy/DSA/tree/master/1929-concatenation-of-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
