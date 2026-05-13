@@ -1,27 +1,22 @@
 class Solution {
 public:
-    bool isNice(string s) {
-        unordered_set<char> st(s.begin(), s.end());
-        for (char c : s) {
-            if (st.count(toupper(c)) == 0 || st.count(tolower(c)) == 0)
-                return false;
-        }
-        return true;
-    }
-
     string longestNiceSubstring(string s) {
-        int n = s.size();
-        string niceString = "";
-
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 2; j <= n; j++) {
-                string sub = s.substr(i, j - i);
-                if (isNice(sub) && sub.size() > niceString.size()) {
-                    niceString = sub;
-                }
+        if (s.length() < 2) return "";
+        
+        unordered_set<char> chars(s.begin(), s.end());
+        
+        for (int i = 0; i < s.length(); i++) {
+            char c = s[i];
+            if (chars.count(tolower(c)) && chars.count(toupper(c))) {
+                continue;
             }
+            
+            string left = longestNiceSubstring(s.substr(0, i));
+            string right = longestNiceSubstring(s.substr(i + 1));
+            
+            return left.length() >= right.length() ? left : right;
         }
-
-        return niceString;
+        
+        return s;
     }
 };
