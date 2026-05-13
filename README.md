@@ -13,6 +13,7 @@
 | [0485-max-consecutive-ones](https://github.com/tanmayayayy/DSA/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/tanmayayayy/DSA/tree/master/0645-set-mismatch) |
 | [0860-lemonade-change](https://github.com/tanmayayayy/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/tanmayayayy/DSA/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanmayayayy/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -36,6 +37,7 @@
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/tanmayayayy/DSA/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayayayy/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/tanmayayayy/DSA/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/tanmayayayy/DSA/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -61,6 +63,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/tanmayayayy/DSA/tree/master/0645-set-mismatch) |
 | [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
@@ -70,6 +73,7 @@
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/tanmayayayy/DSA/tree/master/0645-set-mismatch) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanmayayayy/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
