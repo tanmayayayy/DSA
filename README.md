@@ -55,6 +55,7 @@
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
 ## Binary Search
@@ -156,9 +157,14 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/tanmayayayy/DSA/tree/master/1929-concatenation-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
