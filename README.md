@@ -24,6 +24,7 @@
 | [1470-shuffle-the-array](https://github.com/tanmayayayy/DSA/tree/master/1470-shuffle-the-array) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/tanmayayayy/DSA/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
@@ -58,6 +59,7 @@
 | [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,4 +169,5 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
