@@ -26,6 +26,7 @@
 | [1929-concatenation-of-array](https://github.com/tanmayayayy/DSA/tree/master/1929-concatenation-of-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
+| [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/tanmayayayy/DSA/tree/master/3866-first-unique-even-element) |
@@ -47,6 +48,7 @@
 | [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
+| [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/tanmayayayy/DSA/tree/master/3866-first-unique-even-element) |
@@ -81,6 +83,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayayayy/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
+| [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
