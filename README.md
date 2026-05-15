@@ -59,6 +59,7 @@
 | [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
+| [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Binary Search
 |  |
@@ -169,5 +170,10 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
