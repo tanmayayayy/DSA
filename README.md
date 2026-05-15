@@ -62,6 +62,7 @@
 | [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/tanmayayayy/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,8 +175,10 @@
 | [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/tanmayayayy/DSA/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
