@@ -28,6 +28,7 @@
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
 | [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanmayayayy/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -50,6 +51,7 @@
 | [1763-longest-nice-substring](https://github.com/tanmayayayy/DSA/tree/master/1763-longest-nice-substring) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanmayayayy/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -65,6 +67,7 @@
 | [2413-smallest-even-multiple](https://github.com/tanmayayayy/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanmayayayy/DSA/tree/master/2748-number-of-beautiful-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayayayy/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/tanmayayayy/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/tanmayayayy/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanmayayayy/DSA/tree/master/2748-number-of-beautiful-pairs) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3866-first-unique-even-element](https://github.com/tanmayayayy/DSA/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -179,6 +183,7 @@
 | [2413-smallest-even-multiple](https://github.com/tanmayayayy/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
 | [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
+| [2748-number-of-beautiful-pairs](https://github.com/tanmayayayy/DSA/tree/master/2748-number-of-beautiful-pairs) |
 ## Enumeration
 |  |
 | ------- |
