@@ -27,6 +27,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/tanmayayayy/DSA/tree/master/2335-minimum-amount-of-time-to-fill-cups) |
 | [2363-merge-similar-items](https://github.com/tanmayayayy/DSA/tree/master/2363-merge-similar-items) |
+| [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
 | [2784-check-if-array-is-good](https://github.com/tanmayayayy/DSA/tree/master/2784-check-if-array-is-good) |
 | [3731-find-missing-elements](https://github.com/tanmayayayy/DSA/tree/master/3731-find-missing-elements) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/tanmayayayy/DSA/tree/master/3852-smallest-pair-with-different-frequencies) |
@@ -63,6 +64,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/tanmayayayy/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
 ## Binary Search
 |  |
 | ------- |
@@ -176,9 +178,14 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/tanmayayayy/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/tanmayayayy/DSA/tree/master/2427-number-of-common-factors) |
+## Matrix
+|  |
+| ------- |
+| [2614-prime-in-diagonal](https://github.com/tanmayayayy/DSA/tree/master/2614-prime-in-diagonal) |
 <!---LeetCode Topics End-->
