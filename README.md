@@ -65,6 +65,7 @@
 | [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanmayayayy/DSA/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/tanmayayayy/DSA/tree/master/0441-arranging-coins) |
 | [1323-maximum-69-number](https://github.com/tanmayayayy/DSA/tree/master/1323-maximum-69-number) |
 | [1952-three-divisors](https://github.com/tanmayayayy/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/tanmayayayy/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -80,6 +81,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayayayy/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tanmayayayy/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayayayy/DSA/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/tanmayayayy/DSA/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
