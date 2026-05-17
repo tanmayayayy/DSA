@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/tanmayayayy/DSA/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -198,4 +199,8 @@
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/tanmayayayy/DSA/tree/master/0039-combination-sum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tanmayayayy/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
