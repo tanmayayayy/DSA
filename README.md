@@ -79,6 +79,7 @@
 | [0278-first-bad-version](https://github.com/tanmayayayy/DSA/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayayayy/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/tanmayayayy/DSA/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmayayayy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
@@ -210,4 +211,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tanmayayayy/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/tanmayayayy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
