@@ -16,6 +16,7 @@
 | [0561-array-partition](https://github.com/tanmayayayy/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/tanmayayayy/DSA/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/tanmayayayy/DSA/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/tanmayayayy/DSA/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/tanmayayayy/DSA/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/tanmayayayy/DSA/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/tanmayayayy/DSA/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -82,6 +83,7 @@
 | [0367-valid-perfect-square](https://github.com/tanmayayayy/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayayayy/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/tanmayayayy/DSA/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/tanmayayayy/DSA/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/tanmayayayy/DSA/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
