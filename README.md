@@ -39,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/tanmayayayy/DSA/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayayayy/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayayayy/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -63,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/tanmayayayy/DSA/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/tanmayayayy/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/tanmayayayy/DSA/tree/master/0367-valid-perfect-square) |
@@ -142,6 +144,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/tanmayayayy/DSA/tree/master/0011-container-with-most-water) |
 | [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/tanmayayayy/DSA/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayayayy/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/tanmayayayy/DSA/tree/master/0942-di-string-match) |
