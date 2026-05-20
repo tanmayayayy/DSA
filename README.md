@@ -120,6 +120,7 @@
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanmayayayy/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayayayy/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tanmayayayy/DSA/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/tanmayayayy/DSA/tree/master/0409-longest-palindrome) |
@@ -147,6 +148,7 @@
 | [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/tanmayayayy/DSA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tanmayayayy/DSA/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tanmayayayy/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayayayy/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/tanmayayayy/DSA/tree/master/0455-assign-cookies) |
 | [0942-di-string-match](https://github.com/tanmayayayy/DSA/tree/master/0942-di-string-match) |
