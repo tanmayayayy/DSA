@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/tanmayayayy/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayayayy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayayayy/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/tanmayayayy/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tanmayayayy/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tanmayayayy/DSA/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmayayayy/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayayayy/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tanmayayayy/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
